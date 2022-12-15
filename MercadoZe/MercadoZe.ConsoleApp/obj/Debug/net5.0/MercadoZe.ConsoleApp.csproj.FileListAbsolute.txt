@@ -1,0 +1,73 @@
+C:\Users\André\OneDrive\TropTech Full Stack\Módulo2\Aula55\Exercícios da Aula\ExercicioAula\MercadoZe\MercadoZe.ConsoleApp\bin\Debug\net5.0\MercadoZe.ConsoleApp.exe
+C:\Users\André\OneDrive\TropTech Full Stack\Módulo2\Aula55\Exercícios da Aula\ExercicioAula\MercadoZe\MercadoZe.ConsoleApp\bin\Debug\net5.0\MercadoZe.ConsoleApp.deps.json
+C:\Users\André\OneDrive\TropTech Full Stack\Módulo2\Aula55\Exercícios da Aula\ExercicioAula\MercadoZe\MercadoZe.ConsoleApp\bin\Debug\net5.0\MercadoZe.ConsoleApp.runtimeconfig.json
+C:\Users\André\OneDrive\TropTech Full Stack\Módulo2\Aula55\Exercícios da Aula\ExercicioAula\MercadoZe\MercadoZe.ConsoleApp\bin\Debug\net5.0\MercadoZe.ConsoleApp.runtimeconfig.dev.json
+C:\Users\André\OneDrive\TropTech Full Stack\Módulo2\Aula55\Exercícios da Aula\ExercicioAula\MercadoZe\MercadoZe.ConsoleApp\bin\Debug\net5.0\MercadoZe.ConsoleApp.dll
+C:\Users\André\OneDrive\TropTech Full Stack\Módulo2\Aula55\Exercícios da Aula\ExercicioAula\MercadoZe\MercadoZe.ConsoleApp\bin\Debug\net5.0\MercadoZe.ConsoleApp.pdb
+C:\Users\André\OneDrive\TropTech Full Stack\Módulo2\Aula55\Exercícios da Aula\ExercicioAula\MercadoZe\MercadoZe.ConsoleApp\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\André\OneDrive\TropTech Full Stack\Módulo2\Aula55\Exercícios da Aula\ExercicioAula\MercadoZe\MercadoZe.ConsoleApp\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\André\OneDrive\TropTech Full Stack\Módulo2\Aula55\Exercícios da Aula\ExercicioAula\MercadoZe\MercadoZe.ConsoleApp\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\André\OneDrive\TropTech Full Stack\Módulo2\Aula55\Exercícios da Aula\ExercicioAula\MercadoZe\MercadoZe.ConsoleApp\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\André\OneDrive\TropTech Full Stack\Módulo2\Aula55\Exercícios da Aula\ExercicioAula\MercadoZe\MercadoZe.ConsoleApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\André\OneDrive\TropTech Full Stack\Módulo2\Aula55\Exercícios da Aula\ExercicioAula\MercadoZe\MercadoZe.ConsoleApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\André\OneDrive\TropTech Full Stack\Módulo2\Aula55\Exercícios da Aula\ExercicioAula\MercadoZe\MercadoZe.ConsoleApp\obj\Debug\net5.0\MercadoZe.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\André\OneDrive\TropTech Full Stack\Módulo2\Aula55\Exercícios da Aula\ExercicioAula\MercadoZe\MercadoZe.ConsoleApp\obj\Debug\net5.0\MercadoZe.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\André\OneDrive\TropTech Full Stack\Módulo2\Aula55\Exercícios da Aula\ExercicioAula\MercadoZe\MercadoZe.ConsoleApp\obj\Debug\net5.0\MercadoZe.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\André\OneDrive\TropTech Full Stack\Módulo2\Aula55\Exercícios da Aula\ExercicioAula\MercadoZe\MercadoZe.ConsoleApp\obj\Debug\net5.0\MercadoZe.ConsoleApp.AssemblyInfo.cs
+C:\Users\André\OneDrive\TropTech Full Stack\Módulo2\Aula55\Exercícios da Aula\ExercicioAula\MercadoZe\MercadoZe.ConsoleApp\obj\Debug\net5.0\MercadoZe.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\André\OneDrive\TropTech Full Stack\Módulo2\Aula55\Exercícios da Aula\ExercicioAula\MercadoZe\MercadoZe.ConsoleApp\obj\Debug\net5.0\MercadoZe.ConsoleApp.csproj.CopyComplete
+C:\Users\André\OneDrive\TropTech Full Stack\Módulo2\Aula55\Exercícios da Aula\ExercicioAula\MercadoZe\MercadoZe.ConsoleApp\obj\Debug\net5.0\MercadoZe.ConsoleApp.dll
+C:\Users\André\OneDrive\TropTech Full Stack\Módulo2\Aula55\Exercícios da Aula\ExercicioAula\MercadoZe\MercadoZe.ConsoleApp\obj\Debug\net5.0\refint\MercadoZe.ConsoleApp.dll
+C:\Users\André\OneDrive\TropTech Full Stack\Módulo2\Aula55\Exercícios da Aula\ExercicioAula\MercadoZe\MercadoZe.ConsoleApp\obj\Debug\net5.0\MercadoZe.ConsoleApp.pdb
+C:\Users\André\OneDrive\TropTech Full Stack\Módulo2\Aula55\Exercícios da Aula\ExercicioAula\MercadoZe\MercadoZe.ConsoleApp\obj\Debug\net5.0\MercadoZe.ConsoleApp.genruntimeconfig.cache
+C:\Users\André\OneDrive\TropTech Full Stack\Módulo2\Aula55\Exercícios da Aula\ExercicioAula\MercadoZe\MercadoZe.ConsoleApp\obj\Debug\net5.0\ref\MercadoZe.ConsoleApp.dll
+C:\Users\André\OneDrive\TropTech Full Stack\Módulo2\Aula55 - 60 CSharp com SQL Server\Mercado do Seu Zé\MercadoZe\MercadoZe.ConsoleApp\obj\Debug\net5.0\MercadoZe.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\André\OneDrive\TropTech Full Stack\Módulo2\Aula55 - 60 CSharp com SQL Server\Mercado do Seu Zé\MercadoZe\MercadoZe.ConsoleApp\obj\Debug\net5.0\MercadoZe.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\André\OneDrive\TropTech Full Stack\Módulo2\Aula55 - 60 CSharp com SQL Server\Mercado do Seu Zé\MercadoZe\MercadoZe.ConsoleApp\obj\Debug\net5.0\MercadoZe.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\André\OneDrive\TropTech Full Stack\Módulo2\Aula55 - 60 CSharp com SQL Server\Mercado do Seu Zé\MercadoZe\MercadoZe.ConsoleApp\obj\Debug\net5.0\MercadoZe.ConsoleApp.AssemblyInfo.cs
+C:\Users\André\OneDrive\TropTech Full Stack\Módulo2\Aula55 - 60 CSharp com SQL Server\Mercado do Seu Zé\MercadoZe\MercadoZe.ConsoleApp\obj\Debug\net5.0\MercadoZe.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\André\OneDrive\TropTech Full Stack\Módulo2\Aula55 - 60 CSharp com SQL Server\Mercado do Seu Zé\MercadoZe\MercadoZe.ConsoleApp\obj\Debug\net5.0\MercadoZe.ConsoleApp.dll
+C:\Users\André\OneDrive\TropTech Full Stack\Módulo2\Aula55 - 60 CSharp com SQL Server\Mercado do Seu Zé\MercadoZe\MercadoZe.ConsoleApp\obj\Debug\net5.0\refint\MercadoZe.ConsoleApp.dll
+C:\Users\André\OneDrive\TropTech Full Stack\Módulo2\Aula55 - 60 CSharp com SQL Server\Mercado do Seu Zé\MercadoZe\MercadoZe.ConsoleApp\obj\Debug\net5.0\MercadoZe.ConsoleApp.pdb
+C:\Users\André\OneDrive\TropTech Full Stack\Módulo2\Aula55 - 60 CSharp com SQL Server\Mercado do Seu Zé\MercadoZe\MercadoZe.ConsoleApp\bin\Debug\net5.0\MercadoZe.ConsoleApp.exe
+C:\Users\André\OneDrive\TropTech Full Stack\Módulo2\Aula55 - 60 CSharp com SQL Server\Mercado do Seu Zé\MercadoZe\MercadoZe.ConsoleApp\bin\Debug\net5.0\MercadoZe.ConsoleApp.deps.json
+C:\Users\André\OneDrive\TropTech Full Stack\Módulo2\Aula55 - 60 CSharp com SQL Server\Mercado do Seu Zé\MercadoZe\MercadoZe.ConsoleApp\bin\Debug\net5.0\MercadoZe.ConsoleApp.runtimeconfig.json
+C:\Users\André\OneDrive\TropTech Full Stack\Módulo2\Aula55 - 60 CSharp com SQL Server\Mercado do Seu Zé\MercadoZe\MercadoZe.ConsoleApp\bin\Debug\net5.0\MercadoZe.ConsoleApp.runtimeconfig.dev.json
+C:\Users\André\OneDrive\TropTech Full Stack\Módulo2\Aula55 - 60 CSharp com SQL Server\Mercado do Seu Zé\MercadoZe\MercadoZe.ConsoleApp\bin\Debug\net5.0\MercadoZe.ConsoleApp.dll
+C:\Users\André\OneDrive\TropTech Full Stack\Módulo2\Aula55 - 60 CSharp com SQL Server\Mercado do Seu Zé\MercadoZe\MercadoZe.ConsoleApp\bin\Debug\net5.0\MercadoZe.ConsoleApp.pdb
+C:\Users\André\OneDrive\TropTech Full Stack\Módulo2\Aula55 - 60 CSharp com SQL Server\Mercado do Seu Zé\MercadoZe\MercadoZe.ConsoleApp\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\André\OneDrive\TropTech Full Stack\Módulo2\Aula55 - 60 CSharp com SQL Server\Mercado do Seu Zé\MercadoZe\MercadoZe.ConsoleApp\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\André\OneDrive\TropTech Full Stack\Módulo2\Aula55 - 60 CSharp com SQL Server\Mercado do Seu Zé\MercadoZe\MercadoZe.ConsoleApp\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\André\OneDrive\TropTech Full Stack\Módulo2\Aula55 - 60 CSharp com SQL Server\Mercado do Seu Zé\MercadoZe\MercadoZe.ConsoleApp\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\André\OneDrive\TropTech Full Stack\Módulo2\Aula55 - 60 CSharp com SQL Server\Mercado do Seu Zé\MercadoZe\MercadoZe.ConsoleApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\André\OneDrive\TropTech Full Stack\Módulo2\Aula55 - 60 CSharp com SQL Server\Mercado do Seu Zé\MercadoZe\MercadoZe.ConsoleApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\André\OneDrive\TropTech Full Stack\Módulo2\Aula55 - 60 CSharp com SQL Server\Mercado do Seu Zé\MercadoZe\MercadoZe.ConsoleApp\obj\Debug\net5.0\MercadoZe.ConsoleApp.csproj.CopyComplete
+C:\Users\André\OneDrive\TropTech Full Stack\Módulo2\Aula55 - 60 CSharp com SQL Server\Mercado do Seu Zé\MercadoZe\MercadoZe.ConsoleApp\obj\Debug\net5.0\MercadoZe.ConsoleApp.genruntimeconfig.cache
+C:\Users\André\OneDrive\TropTech Full Stack\Módulo2\Aula55 - 60 CSharp com SQL Server\Mercado do Seu Zé\MercadoZe\MercadoZe.ConsoleApp\obj\Debug\net5.0\ref\MercadoZe.ConsoleApp.dll
+C:\Users\André\OneDrive\TropTech Full Stack\Módulo2\Aula55 - 60 CSharp com SQL Server\Mercado do Seu Zé\MercadoZe\MercadoZe.ConsoleApp\bin\Debug\net5.0\MercadoZe.Classlib.dll
+C:\Users\André\OneDrive\TropTech Full Stack\Módulo2\Aula55 - 60 CSharp com SQL Server\Mercado do Seu Zé\MercadoZe\MercadoZe.ConsoleApp\bin\Debug\net5.0\MercadoZe.Classlib.pdb
+C:\Users\André Copelli\OneDrive\TropTech Full Stack\Módulo2\Aula55 - 60 CSharp com SQL Server\Mercado do Seu Zé\MercadoZe\MercadoZe.ConsoleApp\bin\Debug\net5.0\MercadoZe.ConsoleApp.exe
+C:\Users\André Copelli\OneDrive\TropTech Full Stack\Módulo2\Aula55 - 60 CSharp com SQL Server\Mercado do Seu Zé\MercadoZe\MercadoZe.ConsoleApp\bin\Debug\net5.0\MercadoZe.ConsoleApp.deps.json
+C:\Users\André Copelli\OneDrive\TropTech Full Stack\Módulo2\Aula55 - 60 CSharp com SQL Server\Mercado do Seu Zé\MercadoZe\MercadoZe.ConsoleApp\bin\Debug\net5.0\MercadoZe.ConsoleApp.runtimeconfig.json
+C:\Users\André Copelli\OneDrive\TropTech Full Stack\Módulo2\Aula55 - 60 CSharp com SQL Server\Mercado do Seu Zé\MercadoZe\MercadoZe.ConsoleApp\bin\Debug\net5.0\MercadoZe.ConsoleApp.runtimeconfig.dev.json
+C:\Users\André Copelli\OneDrive\TropTech Full Stack\Módulo2\Aula55 - 60 CSharp com SQL Server\Mercado do Seu Zé\MercadoZe\MercadoZe.ConsoleApp\bin\Debug\net5.0\MercadoZe.ConsoleApp.dll
+C:\Users\André Copelli\OneDrive\TropTech Full Stack\Módulo2\Aula55 - 60 CSharp com SQL Server\Mercado do Seu Zé\MercadoZe\MercadoZe.ConsoleApp\bin\Debug\net5.0\MercadoZe.ConsoleApp.pdb
+C:\Users\André Copelli\OneDrive\TropTech Full Stack\Módulo2\Aula55 - 60 CSharp com SQL Server\Mercado do Seu Zé\MercadoZe\MercadoZe.ConsoleApp\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\André Copelli\OneDrive\TropTech Full Stack\Módulo2\Aula55 - 60 CSharp com SQL Server\Mercado do Seu Zé\MercadoZe\MercadoZe.ConsoleApp\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\André Copelli\OneDrive\TropTech Full Stack\Módulo2\Aula55 - 60 CSharp com SQL Server\Mercado do Seu Zé\MercadoZe\MercadoZe.ConsoleApp\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\André Copelli\OneDrive\TropTech Full Stack\Módulo2\Aula55 - 60 CSharp com SQL Server\Mercado do Seu Zé\MercadoZe\MercadoZe.ConsoleApp\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\André Copelli\OneDrive\TropTech Full Stack\Módulo2\Aula55 - 60 CSharp com SQL Server\Mercado do Seu Zé\MercadoZe\MercadoZe.ConsoleApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\André Copelli\OneDrive\TropTech Full Stack\Módulo2\Aula55 - 60 CSharp com SQL Server\Mercado do Seu Zé\MercadoZe\MercadoZe.ConsoleApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\André Copelli\OneDrive\TropTech Full Stack\Módulo2\Aula55 - 60 CSharp com SQL Server\Mercado do Seu Zé\MercadoZe\MercadoZe.ConsoleApp\bin\Debug\net5.0\MercadoZe.Classlib.dll
+C:\Users\André Copelli\OneDrive\TropTech Full Stack\Módulo2\Aula55 - 60 CSharp com SQL Server\Mercado do Seu Zé\MercadoZe\MercadoZe.ConsoleApp\bin\Debug\net5.0\MercadoZe.Classlib.pdb
+C:\Users\André Copelli\OneDrive\TropTech Full Stack\Módulo2\Aula55 - 60 CSharp com SQL Server\Mercado do Seu Zé\MercadoZe\MercadoZe.ConsoleApp\obj\Debug\net5.0\MercadoZe.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\André Copelli\OneDrive\TropTech Full Stack\Módulo2\Aula55 - 60 CSharp com SQL Server\Mercado do Seu Zé\MercadoZe\MercadoZe.ConsoleApp\obj\Debug\net5.0\MercadoZe.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\André Copelli\OneDrive\TropTech Full Stack\Módulo2\Aula55 - 60 CSharp com SQL Server\Mercado do Seu Zé\MercadoZe\MercadoZe.ConsoleApp\obj\Debug\net5.0\MercadoZe.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\André Copelli\OneDrive\TropTech Full Stack\Módulo2\Aula55 - 60 CSharp com SQL Server\Mercado do Seu Zé\MercadoZe\MercadoZe.ConsoleApp\obj\Debug\net5.0\MercadoZe.ConsoleApp.AssemblyInfo.cs
+C:\Users\André Copelli\OneDrive\TropTech Full Stack\Módulo2\Aula55 - 60 CSharp com SQL Server\Mercado do Seu Zé\MercadoZe\MercadoZe.ConsoleApp\obj\Debug\net5.0\MercadoZe.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\André Copelli\OneDrive\TropTech Full Stack\Módulo2\Aula55 - 60 CSharp com SQL Server\Mercado do Seu Zé\MercadoZe\MercadoZe.ConsoleApp\obj\Debug\net5.0\MercadoZe.ConsoleApp.csproj.CopyComplete
+C:\Users\André Copelli\OneDrive\TropTech Full Stack\Módulo2\Aula55 - 60 CSharp com SQL Server\Mercado do Seu Zé\MercadoZe\MercadoZe.ConsoleApp\obj\Debug\net5.0\MercadoZe.ConsoleApp.dll
+C:\Users\André Copelli\OneDrive\TropTech Full Stack\Módulo2\Aula55 - 60 CSharp com SQL Server\Mercado do Seu Zé\MercadoZe\MercadoZe.ConsoleApp\obj\Debug\net5.0\refint\MercadoZe.ConsoleApp.dll
+C:\Users\André Copelli\OneDrive\TropTech Full Stack\Módulo2\Aula55 - 60 CSharp com SQL Server\Mercado do Seu Zé\MercadoZe\MercadoZe.ConsoleApp\obj\Debug\net5.0\MercadoZe.ConsoleApp.pdb
+C:\Users\André Copelli\OneDrive\TropTech Full Stack\Módulo2\Aula55 - 60 CSharp com SQL Server\Mercado do Seu Zé\MercadoZe\MercadoZe.ConsoleApp\obj\Debug\net5.0\MercadoZe.ConsoleApp.genruntimeconfig.cache
+C:\Users\André Copelli\OneDrive\TropTech Full Stack\Módulo2\Aula55 - 60 CSharp com SQL Server\Mercado do Seu Zé\MercadoZe\MercadoZe.ConsoleApp\obj\Debug\net5.0\ref\MercadoZe.ConsoleApp.dll

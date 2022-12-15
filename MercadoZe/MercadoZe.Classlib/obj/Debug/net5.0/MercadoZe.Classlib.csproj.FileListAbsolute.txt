@@ -1,0 +1,24 @@
+C:\Users\André\OneDrive\TropTech Full Stack\Módulo2\Aula55 - 60 CSharp com SQL Server\Mercado do Seu Zé\MercadoZe\MercadoZe.Classlib\bin\Debug\net5.0\MercadoZe.Classlib.deps.json
+C:\Users\André\OneDrive\TropTech Full Stack\Módulo2\Aula55 - 60 CSharp com SQL Server\Mercado do Seu Zé\MercadoZe\MercadoZe.Classlib\bin\Debug\net5.0\MercadoZe.Classlib.dll
+C:\Users\André\OneDrive\TropTech Full Stack\Módulo2\Aula55 - 60 CSharp com SQL Server\Mercado do Seu Zé\MercadoZe\MercadoZe.Classlib\bin\Debug\net5.0\MercadoZe.Classlib.pdb
+C:\Users\André\OneDrive\TropTech Full Stack\Módulo2\Aula55 - 60 CSharp com SQL Server\Mercado do Seu Zé\MercadoZe\MercadoZe.Classlib\obj\Debug\net5.0\MercadoZe.Classlib.csproj.AssemblyReference.cache
+C:\Users\André\OneDrive\TropTech Full Stack\Módulo2\Aula55 - 60 CSharp com SQL Server\Mercado do Seu Zé\MercadoZe\MercadoZe.Classlib\obj\Debug\net5.0\MercadoZe.Classlib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\André\OneDrive\TropTech Full Stack\Módulo2\Aula55 - 60 CSharp com SQL Server\Mercado do Seu Zé\MercadoZe\MercadoZe.Classlib\obj\Debug\net5.0\MercadoZe.Classlib.AssemblyInfoInputs.cache
+C:\Users\André\OneDrive\TropTech Full Stack\Módulo2\Aula55 - 60 CSharp com SQL Server\Mercado do Seu Zé\MercadoZe\MercadoZe.Classlib\obj\Debug\net5.0\MercadoZe.Classlib.AssemblyInfo.cs
+C:\Users\André\OneDrive\TropTech Full Stack\Módulo2\Aula55 - 60 CSharp com SQL Server\Mercado do Seu Zé\MercadoZe\MercadoZe.Classlib\obj\Debug\net5.0\MercadoZe.Classlib.csproj.CoreCompileInputs.cache
+C:\Users\André\OneDrive\TropTech Full Stack\Módulo2\Aula55 - 60 CSharp com SQL Server\Mercado do Seu Zé\MercadoZe\MercadoZe.Classlib\obj\Debug\net5.0\MercadoZe.Classlib.dll
+C:\Users\André\OneDrive\TropTech Full Stack\Módulo2\Aula55 - 60 CSharp com SQL Server\Mercado do Seu Zé\MercadoZe\MercadoZe.Classlib\obj\Debug\net5.0\refint\MercadoZe.Classlib.dll
+C:\Users\André\OneDrive\TropTech Full Stack\Módulo2\Aula55 - 60 CSharp com SQL Server\Mercado do Seu Zé\MercadoZe\MercadoZe.Classlib\obj\Debug\net5.0\MercadoZe.Classlib.pdb
+C:\Users\André\OneDrive\TropTech Full Stack\Módulo2\Aula55 - 60 CSharp com SQL Server\Mercado do Seu Zé\MercadoZe\MercadoZe.Classlib\obj\Debug\net5.0\ref\MercadoZe.Classlib.dll
+C:\Users\André Copelli\OneDrive\TropTech Full Stack\Módulo2\Aula55 - 60 CSharp com SQL Server\Mercado do Seu Zé\MercadoZe\MercadoZe.Classlib\bin\Debug\net5.0\MercadoZe.Classlib.deps.json
+C:\Users\André Copelli\OneDrive\TropTech Full Stack\Módulo2\Aula55 - 60 CSharp com SQL Server\Mercado do Seu Zé\MercadoZe\MercadoZe.Classlib\bin\Debug\net5.0\MercadoZe.Classlib.dll
+C:\Users\André Copelli\OneDrive\TropTech Full Stack\Módulo2\Aula55 - 60 CSharp com SQL Server\Mercado do Seu Zé\MercadoZe\MercadoZe.Classlib\bin\Debug\net5.0\MercadoZe.Classlib.pdb
+C:\Users\André Copelli\OneDrive\TropTech Full Stack\Módulo2\Aula55 - 60 CSharp com SQL Server\Mercado do Seu Zé\MercadoZe\MercadoZe.Classlib\obj\Debug\net5.0\MercadoZe.Classlib.csproj.AssemblyReference.cache
+C:\Users\André Copelli\OneDrive\TropTech Full Stack\Módulo2\Aula55 - 60 CSharp com SQL Server\Mercado do Seu Zé\MercadoZe\MercadoZe.Classlib\obj\Debug\net5.0\MercadoZe.Classlib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\André Copelli\OneDrive\TropTech Full Stack\Módulo2\Aula55 - 60 CSharp com SQL Server\Mercado do Seu Zé\MercadoZe\MercadoZe.Classlib\obj\Debug\net5.0\MercadoZe.Classlib.AssemblyInfoInputs.cache
+C:\Users\André Copelli\OneDrive\TropTech Full Stack\Módulo2\Aula55 - 60 CSharp com SQL Server\Mercado do Seu Zé\MercadoZe\MercadoZe.Classlib\obj\Debug\net5.0\MercadoZe.Classlib.AssemblyInfo.cs
+C:\Users\André Copelli\OneDrive\TropTech Full Stack\Módulo2\Aula55 - 60 CSharp com SQL Server\Mercado do Seu Zé\MercadoZe\MercadoZe.Classlib\obj\Debug\net5.0\MercadoZe.Classlib.csproj.CoreCompileInputs.cache
+C:\Users\André Copelli\OneDrive\TropTech Full Stack\Módulo2\Aula55 - 60 CSharp com SQL Server\Mercado do Seu Zé\MercadoZe\MercadoZe.Classlib\obj\Debug\net5.0\MercadoZe.Classlib.dll
+C:\Users\André Copelli\OneDrive\TropTech Full Stack\Módulo2\Aula55 - 60 CSharp com SQL Server\Mercado do Seu Zé\MercadoZe\MercadoZe.Classlib\obj\Debug\net5.0\refint\MercadoZe.Classlib.dll
+C:\Users\André Copelli\OneDrive\TropTech Full Stack\Módulo2\Aula55 - 60 CSharp com SQL Server\Mercado do Seu Zé\MercadoZe\MercadoZe.Classlib\obj\Debug\net5.0\MercadoZe.Classlib.pdb
+C:\Users\André Copelli\OneDrive\TropTech Full Stack\Módulo2\Aula55 - 60 CSharp com SQL Server\Mercado do Seu Zé\MercadoZe\MercadoZe.Classlib\obj\Debug\net5.0\ref\MercadoZe.Classlib.dll
